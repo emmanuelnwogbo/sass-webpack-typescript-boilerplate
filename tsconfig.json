@@ -9,6 +9,7 @@
     "allowJs": true,
     "strict": true,
     "strictNullChecks": true,
-    "noImplicitThis": false,
-  }
+    "noImplicitThis": false
+  },
+  "exclude": ["node_modules"],
 }
